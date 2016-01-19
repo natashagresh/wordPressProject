@@ -112,6 +112,8 @@ The ‘style.css’ file is about to get all the love. You need to change the in
 
   ![plugins](/Images/PlugIns.png)
 
+  [This](https://deliciousbrains.com/using-composer-manage-wordpress-themes-plugins/) page gives you tools on how to use Git and WordPress together
+
 
 
 
