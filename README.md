@@ -38,7 +38,7 @@ WordPress is a free, open-source web publishing system ( in other words: a free 
 
 2. PhpMyAdmin
 
-   This is what you should be looking at...
+   Once you have opened the Webpage -this is what you should be looking at...
 
    ![php](/Images/PhpMyAdmin.png)
 
@@ -47,13 +47,23 @@ WordPress is a free, open-source web publishing system ( in other words: a free 
 
 3. Download [WordPress](https://wordpress.org/)
    
-   - Open zipfile - this should create a document folder called WordPress
-   - Save this WordPress folder in a newly created folder done by MAMP. This could be htdocs
-   - After you have done this..., go to /localhost:8888. This is what you should see...
+   - Go to the website and download wordpress.
+   - Once downloaded, open the zipfile - this should create a document folder called WordPress
+   - Save this WordPress folder in a newly created folder done by MAMP. This was htdocs for us
+   - After you have done this, go to /localhost:8888. This is what you should see...
 
    ![index](/Images/index.png)
 
-   
+   - Click on WordPress and this should bring you to a page to make a new configuration file.
+   - Fill in the info like below (your username and password is probs going to be roots) :
+
+   ![wordPress](/Images/wordPress.png)
+
+   - After you have filled out all your information. You should be DONE! **Congrats, you have now downloaded WordPress**
+
+   ![dashboard](/Images/dashboard.png)
+
+
 
 
 
