@@ -32,9 +32,9 @@ WordPress is a free, open-source web publishing system ( in other words: a free 
 
    After downloading, open MAMP. The following should turn up...
 
-   ![Mamp](/Images/Mamp.png)
+   ![Mamp](/Images/mamp.png)
 
-   Start server and open Webstart page.
+   **Start server** and **open Webstart page.**
 
 2. PhpMyAdmin
 
