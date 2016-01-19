@@ -10,15 +10,15 @@ WordPress is a free, open-source web publishing system ( in other words: a free 
 
 ##Websites that use WordPress##
 
-1. The New Yorker
+1. **The New Yorker**
 
 ![New Yorker](/Images/TheNewYorker.png)
 
-2. Beyonce
+2. **Beyonce**
 
 ![Beyonce](/Images/beyonce.png)
 
-3.Star Wars Fan page
+3.**Star Wars Fan page**
 
 ![Star Wars](/Images/starwars.png)
 
