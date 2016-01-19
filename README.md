@@ -30,7 +30,7 @@ WordPress is a free, open-source web publishing system ( in other words: a free 
 
    MAMP stands for Macintosh, Apache, MySQL, and PHP. MAMP is an application you can install on your Mac which allows you to have access to a local PHP server and MySQL server. Essentially, MAMP gives you all of the tools you need to run WordPress on your machine, for development and testing purposes.
 
-   After downloading, open MAMP. The following should turn up...
+   After downloading, open MAMP. The following should turn up:
 
    ![Mamp](/Images/mamp.png)
 
