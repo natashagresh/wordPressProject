@@ -18,7 +18,7 @@ WordPress is a free, open-source web publishing system ( in other words: a free 
 
 ![Beyonce](/Images/beyonce.png)
 
-3.**Star Wars Fan page**
+3. **Star Wars Fan page**
 
 ![Star Wars](/Images/starwars.png)
 
@@ -32,13 +32,34 @@ WordPress is a free, open-source web publishing system ( in other words: a free 
 
    After downloading, open MAMP. The following should turn up...
 
-   ![MAMP](/Images/Mamp.png)
+   ![Mamp](/Images/Mamp.png)
 
-   **Start server** and **open Webstart page.**
+   **Start server** and **open Webstart page.** 
 
 2. PhpMyAdmin
 
+   This is what you should be looking at...
+
+   ![php](/Images/PhpMyAdmin.png)
+
+   - Click database
+   - Make a new database and give it a name
+
+3. Download [WordPress](https://wordpress.org/)
    
+   - Open zipfile - this should create a document folder called WordPress
+   - Save this WordPress folder in a newly created folder done by MAMP. This could be htdocs
+   - After you have done this..., go to /localhost:8888. This is what you should see...
+
+   ![index](/Images/index.png)
+
+   
+
+
+
+
+
+
 
    
 
