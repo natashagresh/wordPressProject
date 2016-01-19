@@ -34,7 +34,7 @@ WordPress is a free, open-source web publishing system ( in other words: a free 
 
    ![Mamp](/Images/Mamp.png)
 
-   **Start server** and **open Webstart page.** 
+   Start server and open Webstart page.
 
 2. PhpMyAdmin
 
