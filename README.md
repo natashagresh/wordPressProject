@@ -26,11 +26,21 @@ WordPress is a free, open-source web publishing system ( in other words: a free 
 
 *[This Youtube tutorial](https://youtu.be/8OBfr46Y0cQ?list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5) was super helpful*
 
-1. Download **MAMP**
+1. Download [**MAMP**](https://www.mamp.info/en/)
 
    MAMP stands for Macintosh, Apache, MySQL, and PHP. MAMP is an application you can install on your Mac which allows you to have access to a local PHP server and MySQL server. Essentially, MAMP gives you all of the tools you need to run WordPress on your machine, for development and testing purposes.
 
-   ![Mamp](/Images/MAMP.png)
+   After downloading, open MAMP. The following should turn up...
+
+   ![MAMP](/Images/Mamp.png)
+
+   **Start server** and **open Webstart page.**
+
+2. PhpMyAdmin
+
+   
+
+   
 
 
 
